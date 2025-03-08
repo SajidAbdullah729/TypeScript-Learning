@@ -2,7 +2,6 @@ export interface CoinChange {
   minCoins: number
   coins: number[]
 }
-
 /**
  * Given a set of categories of coins C and an amount of money S, the goal is:
  * to give change for S but to use a minimum number of coins. Suppose each category of coin has an infinite number of pieces.
