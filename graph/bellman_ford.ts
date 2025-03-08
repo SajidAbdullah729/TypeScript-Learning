@@ -45,3 +45,5 @@ export const bellmanFord = (
 
   return distances
 }
+
+/* Bellman ford algorithm shortest path */
